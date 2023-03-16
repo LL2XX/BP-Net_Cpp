@@ -1,0 +1,13 @@
+﻿  BP_Net.cpp
+D:\厦门大学\面向对象程序设计C++\BP_Net\BP_Net.cpp(28,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\厦门大学\面向对象程序设计C++\BP_Net\BP_Net.cpp(47,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\厦门大学\面向对象程序设计C++\BP_Net\BP_Net.cpp(108,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\厦门大学\面向对象程序设计C++\BP_Net\BP_Net.cpp(112,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\厦门大学\面向对象程序设计C++\BP_Net\BP_Net.cpp(122,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\厦门大学\面向对象程序设计C++\BP_Net\main.cpp(71,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\厦门大学\面向对象程序设计C++\BP_Net\main.cpp(81,13): warning C4101: “t2”: 未引用的局部变量
+D:\厦门大学\面向对象程序设计C++\BP_Net\main.cpp(81,9): warning C4101: “t1”: 未引用的局部变量
+D:\厦门大学\面向对象程序设计C++\BP_Net\main.cpp(80,9): warning C4101: “index”: 未引用的局部变量
+  正在生成代码...
+  BP_Net.vcxproj -> D:\厦门大学\面向对象程序设计C++\BP_Net\x64\Debug\BP_Net.exe
